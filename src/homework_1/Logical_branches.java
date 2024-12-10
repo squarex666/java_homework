@@ -10,11 +10,9 @@ public class Logical_branches {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Ввод x
         System.out.print("Введите значение x: ");
         double x = scanner.nextDouble();
 
-        // Вычисление Y
         double Y;
         if (x <= -2) {
             Y = Math.pow(x, 5) - Math.tan(2 * x - 1);
@@ -24,7 +22,6 @@ public class Logical_branches {
             Y = Math.pow(Math.sin(x), 5);
         }
 
-        // Вычисление F
         double F;
         if (x <= -2) {
             F = Math.exp(Math.sin(x));
@@ -34,7 +31,6 @@ public class Logical_branches {
             F = Math.sqrt(Math.cos(x));
         }
 
-        // Вывод результатов
         System.out.println("Результат Y: " + Y);
         System.out.println("Результат F: " + F);
 
