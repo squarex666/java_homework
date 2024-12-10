@@ -5,6 +5,7 @@ import java.util.*;
  * Java_2
  * I. Определить одномерный массив и заполнить его случайными значениями от -99 до 99. Вариант 9
  */
+
 public class Print_array {
 
         public static void main(String[] args) {
