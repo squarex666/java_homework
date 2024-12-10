@@ -1,4 +1,4 @@
-package homework_1.independent_work;
+package Java_1.independent_work;
 
 /**
  * Самостоятельная работа: задание 1

@@ -1,4 +1,4 @@
-package homework_1;
+package Java_1;
 
 /**
  * Java_1
