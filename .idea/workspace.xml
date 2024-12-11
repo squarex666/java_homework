@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fa28cd3-1230-40bb-92da-77614315d1b4" name="Changes" comment="Added tasks">
+      <change afterPath="$PROJECT_DIR$/src/Java_4/third_task/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_4/third_task/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_3/Millitary_сompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_3/Millitary_сompany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_4/first_task/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_4/first_task/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_4/fourth_task/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_4/fourth_task/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_4/second_task/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_4/second_task/ComplexNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_4/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_4/third_task/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;squarex666&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/squarex666/java_homework.git&quot;,
+    &quot;accountId&quot;: &quot;0e63da7b-6fc5-4da5-ba64-0588cfa9551d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2pzOGMGvK3k9vtIiXbME7u5OWQW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calculate.executor": "Run",
+    "Application.ComplexNumber.executor": "Run",
+    "Application.Create_figure.executor": "Run",
+    "Application.Figure_task.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Hello_world.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Matrix.executor": "Run",
+    "Application.MatrixMinPositive.executor": "Run",
+    "Application.Millitary_сompany.executor": "Run",
+    "Application.Print_array.executor": "Run",
+    "Application.Self_work.executor": "Run",
+    "Application.array_work.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/squarex/IdeaProjects/javascript_homework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/squarex/IdeaProjects/javascript_homework/src/Main.java",
+    "settings.editor.selected.configurable": "profiler.calltree.filter",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/homework_1/independent_work" />
+      <recent name="$PROJECT_DIR$/src/homework_1/independent_work/independent_work" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Matrix">
+    <configuration name="Matrix" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-23.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Java_2.Matrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Millitary_сompany" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-23" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Java_3.Millitary_сompany" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fa28cd3-1230-40bb-92da-77614315d1b4" name="Changes" comment="" />
+      <created>1733765353541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733765353541</updated>
+      <workItem from="1733765353749" duration="5490000" />
+      <workItem from="1733850262269" duration="7857000" />
+      <workItem from="1733934694435" duration="322000" />
+      <workItem from="1733935082639" duration="903000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added tasks">
+      <option name="closed" value="true" />
+      <created>1733853169764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733853169764</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added tasks">
+      <option name="closed" value="true" />
+      <created>1733855340226</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733855340226</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added tasks">
+      <option name="closed" value="true" />
+      <created>1733855875832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733855875832</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added tasks">
+      <option name="closed" value="true" />
+      <created>1733858083655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733858083655</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added tasks" />
+  </component>
+</project>
