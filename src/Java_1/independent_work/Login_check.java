@@ -1,7 +1,7 @@
 package Java_1.independent_work;
 
 /**
- * Самостоятельная работа: задание 3
+ * Самостоятельная работа: задание 4
  */
 
 public class Login_check {

@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fa28cd3-1230-40bb-92da-77614315d1b4" name="Changes" comment="Added tasks">
-      <change afterPath="$PROJECT_DIR$/src/Java_4/third_task/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_4/third_task/Point3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_3/Millitary_сompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_3/Millitary_сompany.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_4/first_task/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_4/first_task/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_4/fourth_task/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_4/fourth_task/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_4/second_task/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_4/second_task/ComplexNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_4/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_4/third_task/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="4fa28cd3-1230-40bb-92da-77614315d1b4" name="Changes" comment="Added tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +134,7 @@
       <workItem from="1733765353749" duration="5490000" />
       <workItem from="1733850262269" duration="7857000" />
       <workItem from="1733934694435" duration="322000" />
-      <workItem from="1733935082639" duration="903000" />
+      <workItem from="1733935082639" duration="1243000" />
     </task>
     <task id="LOCAL-00001" summary="Added tasks">
       <option name="closed" value="true" />
@@ -176,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733858083655</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added tasks">
+      <option name="closed" value="true" />
+      <created>1733936145032</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733936145032</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
